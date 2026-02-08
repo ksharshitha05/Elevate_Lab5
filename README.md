@@ -76,4 +76,10 @@ Task_5_Train_Test_Eval/
 
 
 ##outputs
+<img width="1359" height="528" alt="Image" src="https://github.com/user-attachments/assets/1edf784d-fa8f-42c7-b57d-402a362313b2" />
+
+<img width="1230" height="352" alt="Image" src="https://github.com/user-attachments/assets/a6231e8a-dd61-4533-b215-8a9d87a86cce" />
+
+<img width="1317" height="185" alt="Image" src="https://github.com/user-attachments/assets/c4aae0a7-4965-4b79-acc5-d0a7b3271733" />
+
  
